@@ -11,6 +11,6 @@ void testAll();
 
 int main() {
   testAll();
-  cout << "Done." << endl;
+  cout << "Done" << endl;
   return 0;
 }
